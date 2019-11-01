@@ -1,3 +1,5 @@
+# HeustaBot
+
 ## Functions
 * Moderation
 
