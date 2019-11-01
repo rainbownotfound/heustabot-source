@@ -11,3 +11,10 @@
 
 ## Open-Source
 HeustaBot is completely Open-Source! Feel free to use the coding for learning, non-commercial usage and more!
+
+## To-Do
+* [x] YouTube channel fetcher
+* [ ] Play Music
+* [ ] Leave/Disconnect VoiceChannel Instance
+* [ ] Radio
+* [ ] Praise random server staff members
