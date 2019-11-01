@@ -1,0 +1,12 @@
+{
+    "devID": "DEVELOPER_ID",
+    "token": "BOT_TOKEN",
+    "prefix": "BOT_PREFIX",
+    "modes": {
+        "testing": "0",
+        "shutdown": {
+            "activated": "0",
+            "reason": ""
+        }
+    }
+}
