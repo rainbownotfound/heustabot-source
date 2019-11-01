@@ -1,6 +1,3 @@
-# heustabot-source
-Heustabot is a special bot for DHeusta.
-
 ## Functions
 * Moderation
 
@@ -9,3 +6,6 @@ Heustabot is a special bot for DHeusta.
 * Check ping
 * Check bot stats
 * And more coming soon!
+
+## Open-Source
+HeustaBot is completely Open-Source! Feel free to use the coding for learning, non-commercial usage and more!
